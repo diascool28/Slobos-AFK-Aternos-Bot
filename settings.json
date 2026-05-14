@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LegendsOfmine.aternos.me:13099",
+    "ip": "LegendsOfmine.aternos.me",
     "port": 13099,
     "version": "",
     "try-creative": false
